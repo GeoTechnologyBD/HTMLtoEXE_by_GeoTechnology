@@ -82,7 +82,7 @@ Unlike traditional tools like Electron or PyInstaller (which bundle heavy Python
 
 ## 🛠️ Installation Guide
 
-1. **Download:** Obtain the `HTMLtoEXE_v1.0.0_setup.exe` from [here](https://github.com/GeoTechnologyBD/HTMLtoEXE_by_GeoTechnology/tree/main/HTMLtoEXE_v1.0.0) or from [our website](https://geotech.site.je).
+1. **Download:** Obtain the `HTMLtoEXE_v1.0.0_setup.exe` from [here](https://github.com/GeoTechnologyBD/HTMLtoEXE_by_GeoTechnology/tree/main/HTMLtoEXE_v1.0.0) or from [our website](https://geotech.site.je/product/software/windows/html_to_exe_by_geotechnology_v1.0.0).
 2. **Run:** Double-click the installer. Allow Administrator privileges if prompted (UAC).
 3. **Agree:** Read and accept the End-User License Agreement (EULA).
 4. **Install:** Choose your destination folder (Default: `C:\Program Files (x86)\GeoTechnology\HTML to Native EXE Builder\`).
